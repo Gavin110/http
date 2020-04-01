@@ -52,5 +52,8 @@
 2、DNS重定向：其实tcp/ip视同ip地址来确定一个连接的，所以DNS重定向的原理就是通过DNS解析器确定合适的ip地址路劲来建立连接的。相关技术有DNS轮转。
 
 
-### 待续......
+### 标准参考资料
 
+https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Redirections
+
+### 待续......
